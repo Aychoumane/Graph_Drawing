@@ -1,0 +1,2 @@
+identifiant de fichier = 1
+edit mode = 0
